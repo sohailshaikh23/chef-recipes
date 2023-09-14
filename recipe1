@@ -1,0 +1,4 @@
+file '/myfile' do
+content 'this is my chef-recipes codes'
+action :create
+end

@@ -1,0 +1,6 @@
+execute "run a script" do
+commanf <<-EOH
+mkdir /sohail
+touch filenew
+EOH
+end

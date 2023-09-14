@@ -1,0 +1,6 @@
+# Create a group named 'developers'
+group 'developers' do
+  action :create
+  member 'sohail'
+  append true
+end

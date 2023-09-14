@@ -1,0 +1,6 @@
+user 'sohail do
+  group 'sohail'
+  home '/home/sohail'
+  shell '/bin/bash'
+  action :create
+end
